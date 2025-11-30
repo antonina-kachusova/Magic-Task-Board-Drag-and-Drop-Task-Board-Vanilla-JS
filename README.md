@@ -1,6 +1,8 @@
 # Magic Task Board — Drag & Drop Task Board
 *HTML5 Drag & Drop API · Vanilla JS · LocalStorage · CSS Variables*
 
+Live Site URL: https://antonina-kachusova.github.io/Magic-Task-Board-Drag-and-Drop-Task-Board-Vanilla-JS/
+
 “Магічна дошка для реальних справ: плануй з любов’ю, рухайся з фокусом, досягай із легкістю. Запрограмуй себе на успіх.”
 
 Коротка візуальна дошка для задач з перетягуванням, пріоритетами, темною/світлою темою, редагуванням і збереженням у браузері.
