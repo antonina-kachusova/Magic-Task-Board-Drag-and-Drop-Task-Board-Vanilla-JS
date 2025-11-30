@@ -179,7 +179,6 @@ themeBtn.addEventListener('click', ()=>{
 
 
 ## Запуск локально
-> **Варіант 1 (простіше):**  
 Відкрити `index.html` у браузері (Chrome/Edge/Safari/Firefox).
 
 ## Структура проєкту
